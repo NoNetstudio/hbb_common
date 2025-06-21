@@ -101,7 +101,7 @@ const CHARS: &[char] = &[
 ];
 
 pub const RENDEZVOUS_SERVERS: &[&str] = &["rust.lifemotion.cc"];
-pub const RS_PUB_KEY: &str = "7CLMxYWK88RcYwGGkgCXgwPoG+AO7g5h8jJmaJKGWlI=";
+pub const RS_PUB_KEY: &str = "KgfIYgMC4JyQLNhJSF7AeX1tilp5F+U3JTs7+EhVLSk=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
